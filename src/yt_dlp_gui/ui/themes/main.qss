@@ -1,0 +1,4 @@
+QWidget {
+  background-color: {{MAIN_BG}};
+  color: {{MAIN_TEXT}}
+}

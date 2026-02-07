@@ -1,0 +1,4 @@
+QCheckBox[class="selection_box"] {
+  color: {{MENU_CHECKBOX_COLOR}};
+  font-size: 16px;
+}

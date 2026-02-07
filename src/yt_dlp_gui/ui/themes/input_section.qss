@@ -1,0 +1,18 @@
+QLineEdit#inputLineEdit {
+  border: 2px solid {{INPUT_LINE_BORDER}};
+  background-color: {{INPUT_LINE_BG}};
+  border-radius: 10px;
+  padding: 7px 8px 7px;
+  placeholder-text-color: {{INPUT_LINE_PLACEHOLDER}}
+}
+QLineEdit#inputLineEdit:focus {
+  border: 4px solid {{INPUT_LINE_BORDER_F}};
+}
+QLabel#inputLabel {
+  font-size: 16px;
+  font-weight: 600;
+}
+QPushButton#inputButton {
+  qproperty-iconSize: {{INPUT_ICON_SIZE}};
+  background-color: {{INPUT_BUTTON_BG}};
+}

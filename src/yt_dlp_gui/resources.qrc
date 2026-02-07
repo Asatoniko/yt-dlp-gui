@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="app_icon.jpg">assets/app_icon.jpg</file>
+    <file alias="app_icon.ico">assets/app_icon.ico</file>
+    <file alias="moon.svg">assets/moon.svg</file>
+    <file alias="sun.svg">assets/sun.svg</file>
+    <file alias="paste.svg">assets/paste.svg</file>
+    <file alias="add.svg">assets/add.svg</file>
+    <file alias="folder-search.svg">assets/folder-search.svg</file>
+    <file alias="download_btn.svg">assets/download_btn.svg</file>
+    <file alias="remove_btn.svg">assets/remove_btn.svg</file>
+    <file alias="search.svg">assets/search.svg</file>
+  </qresource>
+</RCC>

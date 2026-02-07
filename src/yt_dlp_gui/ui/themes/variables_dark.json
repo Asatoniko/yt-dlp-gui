@@ -1,0 +1,11 @@
+{
+  "MAIN_BG": "#18091f",
+  "MAIN_TEXT": "#d8cade",
+
+  "INPUT_LINE_BORDER": "#c5dedd",
+  "INPUT_LINE_BG": "#e9f2ef",
+  "INPUT_LINE_BORDER_F": "#549680",
+  "INPUT_BUTTON_BG": "#a9b8b3",
+
+  "MENU_CHECKBOX_COLOR": "#9d8fa1"
+}
