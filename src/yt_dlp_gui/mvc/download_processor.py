@@ -23,7 +23,7 @@ class DownloadProcessor(QRunnable):
 
   @Slot()
   def run(self) -> None:
-    format_str = "bestaudio[acodec=opus]/bestaudio" if self.video_data.extension == "opus" else self.video_data.format_id
+    format_str = "bestaudio[acodec=opus]/bestaudio" if self.video_data.extension == "opus" else f"{self.video_data.format_id}+bestaudio/best" #noqa: E501
 
     opts = {
       "format": format_str,
